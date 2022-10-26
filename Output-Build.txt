@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Exercice2, Configuration: Debug Any CPU ------
+1>  Exercice2 -> C:\Users\FUJITSU\Desktop\S3\UML & c#\Tp CSharp\Exercice2\bin\Debug\Exercice2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
